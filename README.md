@@ -200,6 +200,16 @@ Through the project I got practical experience with Express Router, middleware, 
 
 A benefit of building the API with Express instead of using a SaaS solution like Supabase is that I got more hands-on experience with backend development. I had to set up the routes, authentication, middleware, and database connection myself, which helped me understand better how APIs and full-stack solutions work behind the scenes.
 
+## AI Usage
+
+AI tools were used during development for:
+- explaining backend concepts and middleware
+- brainstorming/discussing project structure
+- troubleshooting errors
+- improving and editing README documentation
+
+All code was reviewed, edited, and tested manually before submission.
+
 ## Contributing
 
 This is a course assignment project and is not currently open for contributions.
