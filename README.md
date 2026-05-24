@@ -53,7 +53,7 @@ The API is built with Express.js, TypeScript, MySQL, JWT authentication, bcrypt 
 
 5. **Create a `.env` file:**
 
-    Use `.env.example` as a guide.
+    Use `.env-example` as a guide.
 
 6. **Start the development server:**
     ```sh
