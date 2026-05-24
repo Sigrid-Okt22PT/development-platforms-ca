@@ -12,7 +12,6 @@ The API is built with Express.js, TypeScript, MySQL, JWT authentication, bcrypt 
 - [Built With](#built-with)
 - [Setup and Installation](#setup-and-installation)
 - [Database Setup](#database-setup)
-- [Environment Variables](#environment-variables)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Motivation](#motivation)
@@ -87,20 +86,6 @@ The database contains two tables:
 - `users`
 - `articles`
 
-## Environment Variables
-
-Create a `.env` file in the root of the project:
-
-```env
-DB_HOST=localhost
-DB_USER=root
-DB_PASSWORD=your_mysql_password
-DB_NAME=news_platform
-PORT=3000
-JWT_SECRET=your_secret_key
-```
-
-Do not commit the `.env` file to GitHub.
 
 ## Usage
 
